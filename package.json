@@ -1,0 +1,31 @@
+{
+  "name": "crawl-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinhnguyen777/crawl-data.git"
+  },
+  "keywords": [
+    "crawl",
+    "data",
+    "crawl",
+    "nodejs",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "sinhnguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sinhnguyen777/crawl-data/issues"
+  },
+  "homepage": "https://github.com/sinhnguyen777/crawl-data#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "request-promise": "^4.2.6"
+  }
+}
