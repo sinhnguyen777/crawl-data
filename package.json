@@ -4,6 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
+    "start": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -26,6 +27,9 @@
   "homepage": "https://github.com/sinhnguyen777/crawl-data#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.10",
+    "ejs": "^3.1.6",
+    "nodemon": "^2.0.15",
+    "request": "^2.88.2",
     "request-promise": "^4.2.6"
   }
 }
